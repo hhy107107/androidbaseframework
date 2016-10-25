@@ -8,8 +8,7 @@ import android.view.WindowManager;
 import java.lang.reflect.Method;
 
 /**
- * 设备相关
- * Created by huiyao huang on 2016/3/18.
+ * Created by Administrator on 2016/3/18.
  */
 public class DensityUtil {
     /**
